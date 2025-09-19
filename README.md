@@ -2,6 +2,11 @@
 Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**](https://www.canr.msu.edu/Forest-Genetics-Lab/) at Michigan State University. 
 <br/><br/><br/>
 
+- [Preparing Agarose Gel](#preparing-agarose-gel)
+- [Running Gel](#running-gel)
+- [GelRed Protocol](#gelred-protocol)
+
+
 
 ## Preparing Agarose Gel 
 
@@ -12,7 +17,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 - Put **1.26 g of Agarose** powder into a flask, to prepare **126 ml** of **1%** gel.
 
     >
-    > **Determining Amount of Agarose to prepare a gel:**<br/> 
+    > **Determining Amount of Agarose to Prepare a Gel**<br/> 
     >> *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml (volume) of agarose*
     >>
     >>> <ins>Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup><ins>
@@ -86,8 +91,10 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 - **Pour the cool solution into the Casting Tray** (Gasketed UV Transmissible (UVT) Gel Tray) immediately and insert a comb to form sample wells. Push bubbles, if exist, down to the end. Wait for the Gel to solidify (10-15 minutes).
   > The rubber gaskets on two unwalled sides of the tray are there to avoid leaking the gel when setting the gel in the tray fit within the electrophoresis unit. If not, masking tape can be used to make walls on those two sides of the gel tray.
   >
-  >> 
-<br/><br/><br/>
+
+--- 
+<br/>
+
 # Running Gel
 - **Place the solidified Gel in an Electrophoresis unit** (make sure the unit is not plugged to the power). Ensure the comb (sample well) side of the gel is toward the Cathode side (black).
   >
@@ -121,9 +128,13 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > 
 - Carefully take out the Gel slab and place it on UV Transilluminator. Use filter/sheet! Pictures!
 
-<br/>##################################################<br/><br/><br/><br/>
+--- 
+
 Explore [Electrophoresis solutions](https://biotium.com/technology/nucleic-acid-gel-stains/?_gl=1*booj3u*_up*MQ..*_ga*MjAyMDM0MTQ3Ny4xNzI0NzY5OTkw*_ga_X4N0G0BL1C*MTcyNDc2OTk5MC4xLjAuMTcyNDc2OTk5MC4wLjAuMTM2NzExMjM3OA..)
-<br/><br/><br/>
+
+--- 
+
+<br/>
 
 # GelRed Protocol						
 
