@@ -98,7 +98,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 # Running Gel
 - **Place the solidified Gel in an Electrophoresis unit** (make sure the unit is not plugged to the power). Ensure the comb (sample well) side of the gel is toward the Cathode side (black).
   >
-  > DNA (negative) runs towards anode (red)
+  > DNA (negatively charged phosphate) runs towards anode (red)
 - **Pour 1× TBE buffer** (the same buffer used in preparing the Gel) from one end of tank of the electrophoresis unit until the Gel is covered by 1-2 mm by the buffer. *Too little buffer may cause the gel to dry out during the run, while excess buffer may decrease DNA mobility and cause band distortion*.
 - Take out the comb, pulling up gently and carefully, without breaking the wells in the Gel.
 - **Prepare ladder** (pre-cut DNA with known size of fragments, also called standard or marker) **and samples** with **6× DNA loading dye** (to track how far DNA sample has traveled during the run) **and load in the respective well in the Gel**. *DNA samples taken out of -20°C freezer need to be thawed well. Vortex the samples for 2-4 seconds to ensure even distribution of DNA in the solution.*
